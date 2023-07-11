@@ -1,7 +1,7 @@
 ###Olá, sou a Neucielle Quadros 
 
 - 🔭 Trabalhando com FrontEnd
-- Estudante de FFull Stack - RecodePro
+- Estudante de Full Stack - RecodePro
 - 📒 Estudando JavaScript 
 - 💗 Pronouns: Ela / Dela
 
