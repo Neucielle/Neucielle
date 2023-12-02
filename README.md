@@ -25,6 +25,6 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Neucielle&icon=2&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Neucielle&label=Profile%20Views%20%2F%20Visualiza%C3%A7%C3%B5es&color=10&icon=9&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
