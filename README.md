@@ -1,8 +1,12 @@
 <a href="https://imgbb.com/"><img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/qJddXfv/cebe97f0-a482-4456-86da-328680580a53-removebg-preview.png" alt="cebe97f0-a482-4456-86da-328680580a53-removebg-preview" border="0"></a>
 
-
-# 💫 About Me:
-🌼 Olá, Sou Neucielle Quadros.<br><br>💻 Aluna RecodePro - Formação FullStack.<br>👩‍🎓 Graduanda ADS - Unifatecie.<br>❤️ Pronouns: Ela / Dela.<br>💕 Um amor chamado Códigos.<br><br>
+<img align="right">
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&color=F7A7E8&center=true&vCenter=true&width=500&lines=About+me!🌼;Welcome+to+my+Github+profile+🫶;my+name's+Neucielle+😄;I'm+a+fullstack+student+😎">
+  </a>
+</div><br>
+💻 Aluna RecodePro - Formação FullStack.<br>👩‍🎓 Graduanda ADS - Unifatecie.<br>❤️ Pronouns: Ela / Dela.<br>💕 Um amor chamado Códigos.<br><br>
 
 
 ## 🌐 Socials:
