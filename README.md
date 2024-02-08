@@ -1,6 +1,3 @@
- <img src="![Estudando-removebg-preview](https://github.com/Neucielle/Neucielle/assets/116307577/89033f77-7bc6-4464-8366-7e3278d6acf6)">
-  </a>
-
 
 <img align="right">
 <div align="center">
