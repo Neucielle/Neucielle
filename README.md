@@ -10,7 +10,7 @@
 </div><br>
 
 
-💻 Aluna RecodePro - Formação FullStack.<br>👩‍🎓 Graduanda ADS - Unifatecie.<br>❤️ Pronouns: Ela / Dela.<br>💕 Um amor chamado Códigos.<br><br>
+💻 Aluna RecodePro - Formação FullStack.<br>👩‍🎓 Graduanda ADS - Unifatecie.<br>❤️ Pronouns: Ela / Dela.<br>💕 Dois amores:1. Códigos / 2.Games.<br><br>
 
 
 ## 🌐 Socials:
