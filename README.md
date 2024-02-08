@@ -1,5 +1,5 @@
 <a href="https://imgbb.com/">
-<img  align="right" src="https://i.ibb.co/dp0HwC6/Estudando-removebg-preview.png" alt="Estudando-removebg-preview" border="0">
+<img  align="right" width="250px" src="https://i.ibb.co/dp0HwC6/Estudando-removebg-preview.png" alt="Estudando-removebg-preview" border="0">
 </a>
 
 <img align="right">
@@ -8,6 +8,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&color=F7A7E8&center=true&vCenter=true&width=500&lines=About+me!🌼;Welcome+to+my+Github+profile+🫶;My+name's+Neucielle+😄;I'm+a+fullstack+student+😎">
   </a>
 </div><br>
+
+
 💻 Aluna RecodePro - Formação FullStack.<br>👩‍🎓 Graduanda ADS - Unifatecie.<br>❤️ Pronouns: Ela / Dela.<br>💕 Um amor chamado Códigos.<br><br>
 
 
