@@ -1,4 +1,5 @@
-<a href="https://imgbb.com/"><img align="right" width="250px" style="margin-top:-20px" src="![Oi-removebg-preview](https://github.com/Neucielle/Neucielle/assets/116307577/003fb0fc-e894-4ee7-a1a5-df5c4039dee3)" alt="cebe97f0-a482-4456-86da-328680580a53-removebg-preview" border="0"></a>
+<a href="https://imgbb.com/"><img align="right" width="250px" style="margin-top:-20px" src="![Estudando-removebg-preview](https://github.com/Neucielle/Neucielle/assets/116307577/e8187873-9d51-4582-bfdb-91a85b6321b9)
+" alt="cebe97f0-a482-4456-86da-328680580a53-removebg-preview" border="0"></a>
 
 
 
