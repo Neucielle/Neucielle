@@ -1,7 +1,4 @@
-<a href="https://imgbb.com/"><img align="right" width="250px" style="margin-top:-20px" src="![Estudando-removebg-preview](https://github.com/Neucielle/Neucielle/assets/116307577/89033f77-7bc6-4464-8366-7e3278d6acf6)" border="0"></a>
-
-
-
+![Estudando-removebg-preview](https://github.com/Neucielle/Neucielle/assets/116307577/89033f77-7bc6-4464-8366-7e3278d6acf6)
 
 <img align="right">
 <div align="center">
