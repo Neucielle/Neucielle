@@ -1,4 +1,4 @@
-<a href="https://imgbb.com/"><img align="right" width="250px" style="margin-top:-20px" src="https://ibb.co/rpGXR8M" border="0"></a>
+<a href="https://imgbb.com/"><img align="right" width="250px" style="margin-top:-20px" src="" border="0"></a>
 
 
 
