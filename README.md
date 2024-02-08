@@ -1,5 +1,5 @@
 <a href="https://imgbb.com/">
-<img  align="right" width="250px" margin-left="15px" src="https://i.ibb.co/dp0HwC6/Estudando-removebg-preview.png" alt="Estudando-removebg-preview" border="0">
+<img  align="right" width="250px" margin-right="-15px" src="https://i.ibb.co/dp0HwC6/Estudando-removebg-preview.png" alt="Estudando-removebg-preview" border="0">
 </a>
 
 <img align="right">
