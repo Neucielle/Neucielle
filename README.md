@@ -10,7 +10,7 @@
 </div><br>
 
 
-💻 Aluna SouCode Academy - Analista de Dados e Dashboard.<br> 💻 Aluna Cubos Academy - Análise de Dados.<br> 👩‍💻 Desenvolvedora FullStack.<br>👩‍🎓 Graduanda ADS - Unifatecie.<br>❤️ Pronouns: Ela / Dela.<br>💕 Dois amores:<br>1. Códigos / 2.Games.<br><br>
+💻 Aluna SoulCode Academy - Analista de Dados e Dashboard.<br> 💻 Aluna Cubos Academy - Análise de Dados.<br> 👩‍💻 Desenvolvedora FullStack.<br>👩‍🎓 Graduanda ADS - Unifatecie.<br>❤️ Pronouns: Ela / Dela.<br>💕 Dois amores:<br>1. Códigos / 2.Games.<br><br>
 
 
 ## 🌐 Socials:
