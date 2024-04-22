@@ -16,6 +16,8 @@ Olá, eu sou Neucielle Quadros (Nancy) !<br><br>💻 Desenvolvedora Fullstack | 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 
+[![](https://visitcount.itsvg.in/api?id=Neucielle&label=Profile%20Views%20%2F%20Visualiza%C3%A7%C3%B5es&color=10&icon=9&pretty=true)](https://visitcount.itsvg.in)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Neucielle&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Neucielle&theme=radical&hide_border=false)<br/>
@@ -34,6 +36,6 @@ Olá, eu sou Neucielle Quadros (Nancy) !<br><br>💻 Desenvolvedora Fullstack | 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Neucielle&label=Profile%20Views%20%2F%20Visualiza%C3%A7%C3%B5es&color=10&icon=9&pretty=true)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
