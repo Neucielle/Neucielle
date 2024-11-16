@@ -7,7 +7,8 @@
 
 
 
-Olá, eu sou Neucielle Quadros (Nancy) !<br><br>💻 Desenvolvedora Fullstack | 📊 Analista de Dados e Criação de Dashboards<br><br>📈 🌱 Atualmente, finalizando minha graduação em ADS, buscando aprimorar minhas habilidades e expandir meu conhecimento com minha segunda graduação em Engenharia de Software.<br><br>💡 Com experiência em desenvolvimento web, estou sempre em busca de novos desafios e aprendizados.<br><br> 🎮 Apaixonada por Games<br><br>Vamos conectar nossas habilidades e criar algo incrível juntos! ✨
+Olá, eu sou Neucielle Quadros (Nancy) !<br><br>💻 Desenvolvedora Fullstack | 📊 Analista de Dados e Criação de Dashboards<br><br>📈 <br>
+AWS re/start Cloud + IA<br>🌱 Atualmente, finalizando minha graduação em ADS, buscando aprimorar minhas habilidades e expandir meu conhecimento com minha segunda graduação em Engenharia de Software.<br><br>💡 Com experiência em desenvolvimento web, estou sempre em busca de novos desafios e aprendizados.<br><br> 🎮 Apaixonada por Games<br><br>Vamos conectar nossas habilidades e criar algo incrível juntos! ✨
 
 
 ## 🌐 Socials:
